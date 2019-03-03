@@ -29,7 +29,7 @@
         </dependency>
         <dependency>
 
-            <groupId>avi.jfrog</groupId>
+            <groupId>maayana.jfrog</groupId>
 
             <artifactId>main.java.Knight</artifactId>
 
@@ -40,15 +40,5 @@
         </dependency>
 
     </dependencies>
-    <repositories>
-
-        <repository>
-
-            <id>my-internal-site</id>
-
-            <url>https://avizaig.artifactoryonline.com/avizaig/libs-release-local</url>
-
-        </repository>
-
-    </repositories>
+   
 </project>
