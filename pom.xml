@@ -14,9 +14,9 @@
 
     <dependencies>
         <dependency>
-          <groupId>alter-cljs</groupId>
-          <artifactId>alter-cljs</artifactId>
-          <version>0.2.0</version>
+          <groupId>org.jfrog.test</groupId>
+          <artifactId>multi1</artifactId>
+          <version>4.3-SNAPSHOT</version>
         </dependency>
     </dependencies>
     </project>
